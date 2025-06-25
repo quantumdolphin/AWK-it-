@@ -161,6 +161,6 @@ awk '{ print "\""$0"\"" }' file.txt | paste -s -d, -
 ## 🙌 Credits
 
 Curated and field-tested by me  
-Collected during cheminformatics, bioinformatics, and scientific data engineering workflows.  
+Collected during my work at Stanford and UCSF writing cheminformatics, bioinformatics, and scientific data engineering workflows.  
 
 MIT License.
