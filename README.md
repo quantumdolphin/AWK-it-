@@ -1,4 +1,4 @@
-# AWKit 🪓  
+# AWK-it! 🪓  
 *A curated collection of practical `awk` one-liners and shell scripting tricks, used in real-world data wrangling pipelines.*
 
 > 📌 From bioinformatics and cheminformatics workflows to quick CSV hacking, this is a living collection of battle-tested snippets.
